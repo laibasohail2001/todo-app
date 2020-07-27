@@ -1,0 +1,26 @@
+body {
+    background-image: url(images/2.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main {
+    text-align: center;
+}
+h1 {
+    color: blue;
+    font-size: 80px;
+}
+.box {
+    height: 30px;
+    width: 200px;
+    background-color: royalblue;
+    color: white;
+}
+.btn1 {
+    height: 30px;
+    width: 130px;
+    background-color: royalblue;
+    color: white;
+
+}
